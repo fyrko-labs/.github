@@ -5,16 +5,16 @@
 <h2 align="center">Lighting the path with intelligent ideas.</h2>
 
 <p align="center">
-  <strong>Fyrko</strong> (from Nordic <em>fyr</em> — lighthouse, beacon) is an independent software &amp; AI studio crafting thoughtful developer tools, agentic workbenches, and focused productivity products.
+  <strong>Fyrko</strong> (from Nordic <em>fyr</em> — lighthouse, beacon) is my indie developer lab for building thoughtful AI developer tools, agentic workbenches, and focused everyday software.
 </p>
 
 ---
 
-### What We Focus On
+### What I'm Exploring
 
-- **Agentic Developer Workbenches** — Designing fast, high-leverage environments where engineers and AI agents collaborate seamlessly.
+- **Agentic Developer Workbenches** — Building fast, high-leverage environments where engineers and AI agents work side by side.
 - **Knowledge & Reading Craft** — Turning scattered information into clear mental models, calm workflows, and lasting insight.
-- **Minimalist Engineering** — Obsessing over clarity, tactile speed, and geometric precision in every interface we ship.
+- **Minimalist Craftsmanship** — Keeping every tool small, fast, and geometrically clear.
 
 ---
 
@@ -27,5 +27,5 @@
 ---
 
 <p align="center">
-  <sub>Built with clarity at <strong>Fyrko Labs</strong> · <code>#0F172A</code> · <code>#7C5CFF</code> · <code>#FFB830</code></sub>
+  <sub>An indie lab by <strong>Fyrko</strong> · <code>#0F172A</code> · <code>#7C5CFF</code> · <code>#FFB830</code></sub>
 </p>
